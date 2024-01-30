@@ -1,0 +1,7 @@
+/* Specific styles for RecipeDetail component */
+.recipe-detail {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+  }
+  
